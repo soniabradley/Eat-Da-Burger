@@ -9,7 +9,7 @@ connection = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "MyNewPass",
-  database: "burger_db"
+  database: "burgers_db"
 });
     };
 // Make connection.
