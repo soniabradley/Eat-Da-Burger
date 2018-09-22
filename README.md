@@ -24,7 +24,7 @@ Browser start with search for localhost:3000
 
 * [cb](https://www.google.com/search?q=callback+in+javascript&oq=call+back+in+ja&aqs=chrome.1.69i57j0l5.9481j1j7&sourceid=chrome&ie=UTF-8) Call Back - A callback is a function that is to be executed after another function has finished executing — hence the name 'call back'. More complexly put: In JavaScript, functions are objects. Because of this, functions can take functions as arguments, and can be returned by other functions.
 
-# Created By
+# Author
 Sonia Bradley
 
 
