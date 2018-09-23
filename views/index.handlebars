@@ -34,6 +34,9 @@
       {{#each burgers}} {{#if this.devoured}}
       <li>
         {{this.burger_name}}
+{{!-- delete option --}}
+{{> burgers/delete-burger}}
+
       </li>
       {{/if}} {{/each}}
     </ul>
